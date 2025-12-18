@@ -8,6 +8,9 @@ An end-to-end Machine Learning project that predicts agricultural crop yields in
 
 ---
 
+## Medium Article Link
+https://medium.com/@apoorvagondane99/from-99-fake-accuracy-to-real-world-impact-building-a-crop-yield-predictor-with-xgboost-636d5cef6275
+
 ## 🚀 Project Overview
 
 Predicting crop yield is critical for agricultural planning and food security. This model uses historical data (1997-2020) including **Rainfall, Temperature, Fertilizer, and Pesticide usage** to estimate yield (Tonnes/Hectare) for various crops across Indian states.
@@ -70,6 +73,7 @@ streamlit run app.py
 Weather API Integration: Fetch real-time weather forecasts for the upcoming season.
 
 Soil Health Data: Incorporate N-P-K (Nitrogen, Phosphorus, Potassium) values for more granular fertilizer recommendations.
+
 
 Deep Learning: Experiment with LSTM models for time-series forecasting of yield trends.
 
